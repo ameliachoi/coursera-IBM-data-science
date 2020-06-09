@@ -4,7 +4,7 @@
 
 **Information**
 <br>
-*The <IBM Data Science> course is Kickstart your Career in Data Science & ML. Master data science, learn Python & SQL, analyze & visualize data, build machine learning models.*
+*The <IBM Data Science> course is the kickstart of career in Data Science & ML. Master data science, learn Python & SQL, analyze & visualize data, build machine learning models.*
 
 
 ## Data Science Methodology
