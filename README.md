@@ -17,3 +17,5 @@
 [01. Introduction](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_01.ipynb)
 
 [02. Data Wrangling](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_02.ipynb)
+
+[03. Exploratory Data Analysis](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_03.ipynb)
