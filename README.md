@@ -14,4 +14,6 @@
 ## Databases and SQL for Data Science
 
 ## Data Analysis with Python
-[01. Introduction ](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_01.ipynb)
+[01. Introduction](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_01.ipynb)
+
+[02. Data Wrangling](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_02.ipynb)
