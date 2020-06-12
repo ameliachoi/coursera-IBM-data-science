@@ -21,3 +21,5 @@
 [03. Exploratory Data Analysis](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_03.ipynb)
 
 [04. Model Development](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_04.ipynb)
+
+[05. Model Evaluation and Refinement](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_05.ipynb)
