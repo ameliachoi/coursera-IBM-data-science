@@ -6,12 +6,11 @@
 <br>
 *The <IBM Data Science> course is the kickstart of career in Data Science & ML. Master data science, learn Python & SQL, analyze & visualize data, build machine learning models.*
 
+---
 
 ## Data Science Methodology
 
 [blog post - Data Science 방법론에 대하여](https://datagenieee.blogspot.com/2020/06/data-science.html)
-
-## Databases and SQL for Data Science
 
 ## Data Analysis with Python
 [01. Introduction](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_01.ipynb)
@@ -23,3 +22,7 @@
 [04. Model Development](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_04.ipynb)
 
 [05. Model Evaluation and Refinement](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_05.ipynb)
+
+## Data Visualization with Python
+
+## Databases and SQL for Data Science
