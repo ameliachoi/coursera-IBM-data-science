@@ -25,4 +25,6 @@
 
 ## Data Visualization with Python
 
+[01. Introduction to Matplotlib and Line Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_01.ipynb)
+
 ## Databases and SQL for Data Science
