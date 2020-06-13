@@ -27,4 +27,6 @@
 
 [01. Introduction to Matplotlib and Line Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_01.ipynb)
 
+[02. Area Plots, Histograms and Bar Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_02.ipynb)
+
 ## Databases and SQL for Data Science
