@@ -29,4 +29,8 @@
 
 [02. Area Plots, Histograms and Bar Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_02.ipynb)
 
+[03. Pie Charts, Box Plots, Scatter Plots and Bubble Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_03.ipynb)
+
+
+
 ## Databases and SQL for Data Science
