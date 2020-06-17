@@ -31,6 +31,8 @@
 
 [03. Pie Charts, Box Plots, Scatter Plots and Bubble Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_03.ipynb)
 
+[04. Waffle Charts, Word Clouds and Regression Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_04.ipynb)
+
 
 
 ## Databases and SQL for Data Science
