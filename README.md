@@ -33,6 +33,7 @@
 
 [04. Waffle Charts, Word Clouds and Regression Plots](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_04.ipynb)
 
+[05. Generating Maps with Python](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_05.ipynb)
 
 
 ## Databases and SQL for Data Science
