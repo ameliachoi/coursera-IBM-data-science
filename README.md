@@ -35,5 +35,6 @@
 
 [05. Generating Maps with Python](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_visualization_05.ipynb)
 
+[Data Visualization with Python - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/data_visualization_assignment.ipynb)
 
 ## Databases and SQL for Data Science
