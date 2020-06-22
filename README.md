@@ -39,4 +39,8 @@
 
 ## Machine Learning with Python
 
+[01. Simple Linear Regression](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_01.ipynb)
+
+[02. Non-Linear Regression](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_02.ipynb)
+
 ## Databases and SQL for Data Science
