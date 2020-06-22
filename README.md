@@ -37,4 +37,6 @@
 
 [Data Visualization with Python - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/data_visualization_assignment.ipynb)
 
+## Machine Learning with Python
+
 ## Databases and SQL for Data Science
