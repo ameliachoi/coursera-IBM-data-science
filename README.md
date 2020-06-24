@@ -43,4 +43,12 @@
 
 [02. Non-Linear Regression](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_02.ipynb)
 
+[03. K-Nearest Neighbors](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_03.ipynb)
+
+[04. Decision Trees](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_04.ipynb)
+
+[05. Logistic Regression](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_05.ipynb)
+
+[06. Support Vector Machine (SVM)](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_06.ipynb)
+
 ## Databases and SQL for Data Science
