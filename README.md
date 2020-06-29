@@ -12,7 +12,12 @@
 
 [blog post - Data Science 방법론에 대하여](https://datagenieee.blogspot.com/2020/06/data-science.html)
 
+## Databases and SQL for Data Science
+
+[Databases and SQL for Data Science - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb)
+
 ## Data Analysis with Python
+
 [01. Introduction](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_01.ipynb)
 
 [02. Data Wrangling](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_python_02.ipynb)
@@ -51,8 +56,10 @@
 
 [06. Support Vector Machine (SVM)](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_06.ipynb)
 
-## Databases and SQL for Data Science
+[07. K-Means Clustering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_07.ipynb)
 
-[Databases and SQL for Data Science - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb)
+[08. Agglomerative clustering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_08.ipynb)
+
+[09. DBSCAN Clustering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_09.ipynb)
 
 
