@@ -52,3 +52,7 @@
 [06. Support Vector Machine (SVM)](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_06.ipynb)
 
 ## Databases and SQL for Data Science
+
+[Databases and SQL for Data Science - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/DB0201EN-Week4-2-2-PeerAssign-v5-py.ipynb)
+
+
