@@ -62,4 +62,6 @@
 
 [09. DBSCAN Clustering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_09.ipynb)
 
+[10. Content-based Filtering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_10.ipynb)
 
+[11. Collaborative Filtering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_11.ipynb)
