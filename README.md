@@ -65,3 +65,5 @@
 [10. Content-based Filtering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_10.ipynb)
 
 [11. Collaborative Filtering](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/coursera_machine_learning_11.ipynb)
+
+[Machine Learning with Python - Assignment](https://github.com/ameliachoi/coursera-IBM-data-science/blob/master/my%20assignment%20-%20machine%20learning%20with%20python.ipynb)
